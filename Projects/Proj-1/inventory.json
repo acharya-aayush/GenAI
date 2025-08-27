@@ -1,0 +1,50 @@
+{
+  "electronics": {
+    "laptop": {
+      "name": "Dell Laptop",
+      "count": 9,
+      "price": 800
+    },
+    "phone": {
+      "name": "iPhone 14",
+      "count": 20,
+      "price": 500
+    }
+  },
+  "clothing": {
+    "shirt": {
+      "name": "Cotton T-Shirt",
+      "count": 30,
+      "price": 25
+    },
+    "jeans": {
+      "name": "Blue Jeans",
+      "count": 15,
+      "price": 60
+    }
+  },
+  "books": {
+    "python_book": {
+      "name": "Python Programming Guide",
+      "count": 12,
+      "price": 40
+    },
+    "novel": {
+      "name": "Adventure Novel",
+      "count": 8,
+      "price": 15
+    }
+  },
+  "food": {
+    "apple": {
+      "name": "Fresh Apples",
+      "count": 20,
+      "price": 2
+    },
+    "bread": {
+      "name": "Wheat Bread",
+      "count": 25,
+      "price": 3
+    }
+  }
+}
